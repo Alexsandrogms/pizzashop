@@ -77,6 +77,7 @@ NEXT_PUBLIC_OTHER_KEY=value
 / -
   |-- /src             # Project root
   |-- /public          # Static files
+  |-- /test            # Test files
   |-- src/pages        # Next.js pages
   |-- src/components   # Reusable components
   |-- src/utils        # Utility functions
